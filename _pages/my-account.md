@@ -10,3 +10,7 @@ published: true
 post_date: 2018-07-03 18:41:28
 ---
 [woocommerce_my_account]
+
+<code>[miniorange_social_login]</code>
+
+Dont have an account?  Get one here.
