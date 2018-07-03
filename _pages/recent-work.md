@@ -9,3 +9,4 @@ permalink: >
 published: true
 post_date: 2018-07-03 03:32:10
 ---
+[Best_Wordpress_Gallery id="1" gal_title="All images"]
