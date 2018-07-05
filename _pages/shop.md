@@ -1,6 +1,6 @@
 ---
 ID: 38
-post_title: Plans and Pricing
+post_title: 'WordPress Site &#8211; Hosted by MMD Network'
 author: MMD Network
 post_excerpt: ""
 layout: page
