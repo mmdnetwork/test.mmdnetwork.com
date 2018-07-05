@@ -1,6 +1,6 @@
 ---
 ID: 150
-post_title: Home
+post_title: ""
 author: MMD Network
 post_excerpt: ""
 layout: page
