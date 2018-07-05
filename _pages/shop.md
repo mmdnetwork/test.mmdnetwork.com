@@ -1,6 +1,6 @@
 ---
 ID: 38
-post_title: 'WordPress Site &#8211; Hosted by MMD Network'
+post_title: Services
 author: MMD Network
 post_excerpt: ""
 layout: page
