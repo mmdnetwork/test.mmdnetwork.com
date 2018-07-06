@@ -1,6 +1,6 @@
 ---
 ID: 181
-post_title: Domain Names
+post_title: Search Available Domains
 author: MMD Network
 post_excerpt: ""
 layout: page
